@@ -1,0 +1,2 @@
+Finish application/xml, and text/xml (same as application) 
+Move onto Jquery + ajax and away from basic dom manipulation and browser-native fetch functions
