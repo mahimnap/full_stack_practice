@@ -53,7 +53,7 @@ app.post ('/characteristics', express.json(), (req, res) => {
 
 app.post('/rateBook', (req, res) => {
     const xmlData = req.body; 
-    const //WORKING HEREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEe
+    //const //WORKING HERE
 });
 
 app.listen(3000, () => {
